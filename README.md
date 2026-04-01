@@ -2,7 +2,7 @@
 
 从零实现一个迷你版 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) —— 一个 AI 编程助手 CLI 工具。
 
-本项目从 [claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)（TypeScript）翻译而来，旨在帮助你**用 Python 理解 AI Agent 的核心实现原理**。
+旨在帮助你**用 Python 理解 AI Agent 的核心实现原理**。
 
 ## 它能做什么？
 
